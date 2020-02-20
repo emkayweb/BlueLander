@@ -1,0 +1,98 @@
+h1 { 
+
+	color:rgb(255,153,153);
+	font-family: 'Roboto Slab', serif;
+}
+
+body {
+	font-family: 'roboto', sans-serif;
+	color: rgb(0,0,102);
+}
+
+.jumbotron {
+	background-color:  rgb(102,102,204);
+	color:white;
+}
+
+.pinkColumn {
+	background-color: rgba(255,153,153,0.2);
+	color: rgb(102,102,204);
+}
+
+.blueColumn {
+	background-color: rgba(102,102,204);	
+}
+
+/*Typopgrahy*/ 
+
+.slab {font-family: 'Roboto Slab', serif;
+}
+
+.big {font-size:3rem;
+
+}
+
+.lighter {
+	font-weight:100;
+}
+
+.pink {color:rgb(255,153,153);
+
+}
+
+.blue {color: rgb(102,102,204);
+}
+
+
+/*Input Form Example Text and Custom Button*/
+
+.inputText {
+	font-style:italic;
+	
+}
+
+.btn-blue { 
+  color: #ffffff; 
+  background-color: #6666cc; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-blue:hover, 
+.btn-blue:focus, 
+.btn-blue:active, 
+.btn-blue.active, 
+.open .dropdown-toggle.btn-blue { 
+  color: #ffffff; 
+  background-color: #B1CAFA; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-blue:active, 
+.btn-blue.active, 
+.open .dropdown-toggle.btn-blue { 
+  background-image: none; 
+} 
+ 
+.btn-blue.disabled, 
+.btn-blue[disabled], 
+fieldset[disabled] .btn-blue, 
+.btn-blue.disabled:hover, 
+.btn-blue[disabled]:hover, 
+fieldset[disabled] .btn-blue:hover, 
+.btn-blue.disabled:focus, 
+.btn-blue[disabled]:focus, 
+fieldset[disabled] .btn-blue:focus, 
+.btn-blue.disabled:active, 
+.btn-blue[disabled]:active, 
+fieldset[disabled] .btn-blue:active, 
+.btn-blue.disabled.active, 
+.btn-blue[disabled].active, 
+fieldset[disabled] .btn-blue.active { 
+  background-color: #6666cc; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-blue .badge { 
+  color: #6666cc; 
+  background-color: #ffffff; 
+}
